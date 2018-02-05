@@ -1,0 +1,21 @@
+body{
+	font-family: arial, san-serif;
+}
+/*font-family*/
+
+header{
+	background-color: cadetblue; 
+	text-align: center;
+}
+
+img{
+	width: 100%
+}
+
+header a{
+	color: white;
+}
+
+nav li{
+	list-style-type: none;
+}
